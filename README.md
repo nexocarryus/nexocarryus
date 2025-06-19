@@ -1,6 +1,6 @@
-# Halo semua! 
+# Hi Everyone! 
 
-Perkenalkan nama saya **Naufal Dzakwan**.<br>
+My name is **Naufal Dzakwan Zakianto**.<br>
 
 I am a final-year student studying Informatics at Telkom University. <br>
 Aspiring Data Scientist and Machine Learning Engineer with a strong passion for data-driven solutions and artificial intelligence. 
